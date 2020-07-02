@@ -1,0 +1,23 @@
+{
+	"name": "express-crash",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-handlebars": "^4.0.4",
+		"moment": "^2.27.0",
+		"path": "^0.12.7",
+		"uuid": "^8.2.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	}
+}
